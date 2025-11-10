@@ -1,10 +1,10 @@
 
 # Level 0
-![[Pasted image 20251110082424.png]]
+![Git下载截图](20251110082424.png) 照着群文件下载了git
 照着群文件下载了git
 
 # Level 1
-![[Pasted image 20251110082528.png]]
+![Shell使用截图](20251110082528.png)
 仿照linux系统命令简单使用shell
 
 # Level 2
@@ -54,7 +54,7 @@ while true;do
                 break
         fi
 done
-![[Pasted image 20251110084950.png]]
+![操作截图](20251110084950.png) 
 shell易错点：
 打印用 echo
  if [ "$a" = "石头" ]; then
@@ -69,3 +69,8 @@ shell易错点：
 $a  ;then  fi
 
 # Level 3
+![操作截图](20251110090343.png)
+照着B站视频学会用git上传到github
+【【瞎讲软件】通过git命令实现github下载与上传】https://www.bilibili.com/video/BV1J14y1a7ZG?vd_source=8d32b4054931ac3a8853711e9cc414da
+
+其中ssh密钥新建出现问题，复制报错到csdn就知道怎么做了
