@@ -1,3 +1,13 @@
+
+# Level 0
+![[Pasted image 20251110082424.png]]
+照着群文件下载了git
+
+# Level 1
+![[Pasted image 20251110082528.png]]
+仿照linux系统命令简单使用shell
+
+# Level 2
 #!/bin/bash
 #详细
 #Name:略
@@ -44,3 +54,18 @@ while true;do
                 break
         fi
 done
+![[Pasted image 20251110084950.png]]
+shell易错点：
+打印用 echo
+ if [ "$a" = "石头" ]; then
+                if [ $b -eq 1 ]; then
+                        echo "平，我是石头"
+                elif [ $b -eq 2 ];then
+                        echo "你赢，我是剪刀"
+                else
+                        echo "你输，我是布"
+                fi
+【】和=要空格
+$a  ;then  fi
+
+# Level 3
