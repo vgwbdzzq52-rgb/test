@@ -1,6 +1,6 @@
 #!/bin/bash
 #详细
-#Name:陈俊杰
+#Name:略
 #Desc:猜拳,石头（1），剪刀（2），布（3）
 
 while true;do
